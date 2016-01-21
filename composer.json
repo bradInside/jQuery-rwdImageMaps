@@ -1,4 +1,21 @@
 {
+    "name": "bradInside/jQuery-rwdImageMaps",
+    "description": "responsive images map",
+    "homepage": "https://github.com/stowball/jQuery-rwdImageMaps",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Stow",
+            "homepage": "https://github.com/stowball/jQuery-rwdImageMaps"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "OAuth": "src/"
+        }
     }
 }
